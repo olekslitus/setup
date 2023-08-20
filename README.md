@@ -1,6 +1,11 @@
 # setup
 My development setup for different plarforms
 
+## GNOME
+- PopOS Shell
+- User Themes
+- Aylur's Widgets
+
 ## Fedora
 
 ## Tools

@@ -14,3 +14,7 @@ My development setup for different plarforms
   - poetry
 - Rust
   - cargo
+- JS & TS
+  - nvm
+  - npm
+  - TS

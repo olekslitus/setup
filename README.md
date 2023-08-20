@@ -5,6 +5,7 @@ My development setup for different plarforms
 
 ## Tools
 - NeoVim
+- Alacritty
   
 ### Langauges
 - Python
